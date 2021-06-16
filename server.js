@@ -9,6 +9,8 @@ const moviesController = require('./controller/movies.controller')
 
 app.get('/weather', weatherController );
 app.get('/movies', moviesController );
-app.listen(port);
+// app.listen(port);
+
+app.listen(process.env.port || 5000);
 
 
