@@ -19,3 +19,15 @@ Change Log
 Credit and Collaborations
 Anas Al Ramahi Majd Khasawneh
 
+
+
+Name of feature: cache
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 2 pm
+
+Finish time: 4 pm
+
+Actual time needed to complete: 2:30
+
